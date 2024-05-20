@@ -1,0 +1,5 @@
+_Rosie.UrlWebhook = "https://discord.com/api/webhooks/1221360022345220156/ebX_yUsNM92CPb_tc5SoD7zU4UJkAnHVe7uJ4FghpNKbzYnws8azFMQqPfopCHR46y-Z" ---// Link Webhook Của Bạn
+_Rosie.NameHub = "Thanh Trúc Auto bounty" ---// Tên Hub Của Bạn
+_Rosie.Urlimage = "https://cdn.discordapp.com/attachments/1172464176367681607/1242019180916637779/IMG_20240520_144034.jpg?ex=664c5000&is=664afe80&hm=485273c40e6a3e38174bf584b4f105caf1d723596897022ec2456e97172de09d&" ---// Link Ảnh Banner (Nếu Xoá Sẽ Để Ảnh Gốc)
+_Rosie.NameScript = "Blox Fruits" ---// Tên Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThanhTrucdthw/Autobountythanhtruc/main/Autobountythanhtruc.lua"))()
